@@ -1,3 +1,3 @@
-npm start для запуска приложения
+npm start --- для запуска приложения
 
-npm run server для запуска сервера
+npm run json-server --- для запуска сервера
